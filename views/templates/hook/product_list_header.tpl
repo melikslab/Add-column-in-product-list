@@ -1,0 +1,1 @@
+<th  class="text-center">{l s='MPN' mod='addcolumninprodlist'}</th>
